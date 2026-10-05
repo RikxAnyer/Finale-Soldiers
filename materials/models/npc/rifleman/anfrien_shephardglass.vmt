@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NPC/rifleman/anfrien_shephardglass"
+	"$translucent" 1
+}

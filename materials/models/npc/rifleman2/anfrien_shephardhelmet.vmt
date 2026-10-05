@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NPC/rifleman2/anfrien_shephardhelmet"
+	"$bumpmap" "models/NPC/rifleman2/anfrien_shephardhelmet_normal"
+}

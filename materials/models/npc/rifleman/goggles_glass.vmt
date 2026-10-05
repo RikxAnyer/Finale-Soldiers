@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/NPC/rifleman/goggles_glass"
+	"$bumpmap" "models/NPC/rifleman/goggles_glass_nml"
+$translucent 1
+$phong "1"
+$phongexponent "3"
+$phongboost ".2"
+$phongfresnelranges  "[1 1 30]"
+$phongalbedotint "1"
+}
